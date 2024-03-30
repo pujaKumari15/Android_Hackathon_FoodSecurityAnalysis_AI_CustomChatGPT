@@ -122,8 +122,8 @@ public class ChatGPT extends Fragment {
         RequestBody body = RequestBody.create(jsonBody.toString(), JSON);
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/chat/completions")
-                .header("Authorization", "Bearer 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")
-                .header("Assistant-ID", "asst_SjcCrbv8t58pd5fmdSH9D2pP")
+                .header("Authorization", "Bearer {secret}")
+                .header("Assistant-ID", "{assistantID}")
                 .post(body)
                 .build();
 
