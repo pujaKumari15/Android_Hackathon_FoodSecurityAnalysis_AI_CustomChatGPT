@@ -6,7 +6,7 @@ Puja Kumari - 017460157<br/>
 Sai Krishna - <br/>
 Ruchik - 017452461<br/>
 
-# Funcyional Requirements
+# Functional Requirements
 
 * Homepage contains Personas - Researcher and Government Officer 
 * Should be able to render time series
