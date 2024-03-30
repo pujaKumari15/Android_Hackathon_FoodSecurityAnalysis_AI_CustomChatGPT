@@ -10,9 +10,10 @@ Ruchik - 017452461<br/>
 
 * Homepage contains Personas - Researcher and Government Officer 
 * Should be able to render time series
-• X-axis: Year
-• Y Axis: Either USD ($) Value or Percentage (%)
 • Should be able to select years on the time series
 * Country Selecter - India, China, USA
 * Menu Select
 * Annotation Support
+* Enterprise Distributed Architecture that supports receiving Prompts from many users
+* Able to store Prompts and Responses
+* Natural Language Interaction with Data
