@@ -3,7 +3,7 @@
 ### Team Name: Dev Dynamos<br/>
 ### Team Members: <br/>
 Puja Kumari - 017460157<br/>
-Sai Krishna - <br/>
+G Sai Krishna - 017102514<br/>
 Ruchik - 017452461<br/>
 
 # Functional Requirements
